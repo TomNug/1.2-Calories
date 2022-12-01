@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/1-Calories22/main.csproj",
+      "projectUniqueName": "/home/runner/12-Calories/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/1-Calories22/main.csproj",
+      "projectPath": "/home/runner/12-Calories/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/1-Calories22/obj/",
+      "outputPath": "/home/runner/12-Calories/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
